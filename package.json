@@ -1,0 +1,27 @@
+{
+  "name": "admin",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/pwa": "^3.3.5",
+    "bootstrap": "^4.6.0",
+    "bootstrap-vue": "^2.21.2",
+    "cloudinary": "^1.28.1",
+    "connect-multiparty": "^2.2.0",
+    "core-js": "^3.15.1",
+    "nedb": "^1.8.0",
+    "nuxt": "^2.15.7",
+    "pusher": "^5.0.1"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^8.3.0",
+    "prettier": "^2.3.2"
+  }
+}
